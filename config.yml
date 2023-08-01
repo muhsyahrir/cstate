@@ -55,9 +55,9 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#e9ecef"
   enableLastMod: true
-  headerTextColor: black
+  headerTextColor: white
   logo: /img/oca.png
-  incidentPostsPerPage: 10
+  incidentPostsPerPage: 20
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
   disableComplexCalculations: false
