@@ -56,7 +56,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: /img/oca.png
+  logo: /img/cstate-oca.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -77,4 +77,4 @@ params:
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: true
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
