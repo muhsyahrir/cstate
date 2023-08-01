@@ -38,16 +38,16 @@ params:
   down: "#e60000"
   systems:
     - name: Gateway
-      category: North Coast
+      category: Sites and Services
     - name: Backup Gateway
-      category: North Coast
+      category: Sites and Services
+    - name: API
+      description: The guts of the application.
+      category: Uncategorized
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
       link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
     - name: Media Proxy
       description: This is the service responsible for serving images, audio, and
         video. It is reliant on our CDN.
@@ -68,7 +68,7 @@ params:
   disableIncidentHistory: true
   ok: "#008000"
   categories:
-    - name: North Coast
+    - name: Sites and Services
       description: The main servers are located here.
       closed: true
     - name: Empty Category
